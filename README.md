@@ -1,5 +1,9 @@
 # Estudo da Taxa de Regressão em Motores Foguete Híbridos Usando uma Ferramenta CFD
 
+Estudo teórico da taxa de regressão de propelentes sólidos em motores de foguete híbridos utilizando uma ferramenta comercial de CFD utilizando oxigênio e parafina sólida. 
+
+Para visualizar o arquivo completo acesse: [PDF Completo](artigo cobem.pdf)
+
 ## Resumo
 Este trabalho propõe um estudo teórico da taxa de regressão de propelentes sólidos em motores de foguete híbridos, relacionando-a com os principais parâmetros característicos do fluxo. O objetivo principal é testar a ferramenta comercial ANSYS Fluent para simular o processo de regressão usando um modelo de fluxo não viscoso em estado estacionário. Um modelo de simulação foi desenvolvido para representar o processo de regressão em geometrias simples de câmaras de combustão, considerando o fluxo não reativo e a temperatura de pirólise da parafina. Como objetivo secundário, o modelo foi testado em uma segunda geometria simples para contribuir na definição de geometrias otimizadas que ajudem a reduzir a perda de desempenho na combustão do combustível.
 
